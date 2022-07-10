@@ -90,12 +90,12 @@ img {
   padding: 160px 20px;
  
 }
-.about-section, .content h1{
-  font-size: 64px;
+.about-section-content h1{
+  font-size: 74px;
   line-height: 80px;
 }
-.about-section, .content h2{
-  font-size: 18px;
+.about-section-content h2{
+  font-size: 30px;
   font-family: var(--defaulft-font-family);
 }
 .about-section-content, .content-container{
